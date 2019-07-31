@@ -1,7 +1,12 @@
+* {
+  color: white
+}
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
+    background-color: #0f1621;
+
   }
   body {
     margin: 0;
@@ -236,6 +241,7 @@ html {
     text-rendering: optimizeLegibility;
     font-size: 2.25rem;
     line-height: 1.1;
+    color: rgb(161, 141, 149)
   }
   h2 {
     margin-left: 0;
@@ -385,6 +391,7 @@ html {
     padding-right: 0;
     padding-top: 0;
     margin-bottom: 1.45rem;
+    color: whitesmoke;
   }
   figure {
     margin-left: 0;
