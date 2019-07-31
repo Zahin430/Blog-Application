@@ -1,9 +1,10 @@
 .header {
     padding: 1rem 0 3rem;
+    color: white;
 }
 
 .title {
-    color: black;
+    color: white;
     font-size: 3rem;
     text-decoration: none;
 }
@@ -14,16 +15,16 @@
     margin: 0;
 }
 .nav-item {
-    color: grey;
+    color: white;
     font-size: .9rem;
     margin-right: 1.3rem;
     text-decoration: none
 }
 
 .nav-item:hover {
-    color: #666666; 
+    color: skyblue; 
 }
 
 .active-nav-item {
-    color: #333333;
+    color: skyblue;
 }
